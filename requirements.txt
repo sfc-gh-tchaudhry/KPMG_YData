@@ -1,0 +1,2 @@
+streamlit[pdf]>=1.49.0
+ydata-sdk
