@@ -6,6 +6,7 @@ Install the pre-requisites
 3. pip install "streamlit[pdf]"
 
 Now you can run
+
 streamlit run app.py
 
 Ignore the warnings in the console
